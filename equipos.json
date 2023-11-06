@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "abreviatura": "ats",
+        "nombre": "Atlético de Sevilla",
+        "presidente": "Linde"
+    },
+    {
+        "id": 2,
+        "abreviatura": "cgo",
+        "nombre": "CD Gran Olívico",
+        "presidente": "BMY"
+    },
+    {
+        "id": 3,
+        "abreviatura": "dem",
+        "nombre": "Deme10",
+        "presidente": "Rising"
+    },
+    {
+        "id": 4,
+        "abreviatura": "dfc",
+        "nombre": "Delichaos FC",
+        "presidente": "3RFULL1"
+    },
+    {
+        "id": 5,
+        "abreviatura": "mfc",
+        "nombre": "Makys FC",
+        "presidente": "Nachus"
+    },
+    {
+        "id": 6,
+        "abreviatura": "mnm",
+        "nombre": "Manimals FC",
+        "presidente": "Dani"
+    },
+    {
+        "id": 7,
+        "abreviatura": "sob",
+        "nombre": "Sobrado de Trives",
+        "presidente": "smadz"
+    },
+    {
+        "id": 8,
+        "abreviatura": "spt",
+        "nombre": "Suprasic Team",
+        "presidente": "Noisia"
+    },
+    {
+        "id": 9,
+        "abreviatura": "tml",
+        "nombre": "The Muay Lions",
+        "presidente": "Bleess"
+    },
+    {
+        "id": 10,
+        "abreviatura": "van",
+        "nombre": "Villa Ángeles",
+        "presidente": "Serggy"
+    }
+]
