@@ -96,7 +96,7 @@ body {
 }
 
 .cover-container main {
-  height: fit-content;
+  height: auto;
 }
 
 .dataTable {
@@ -141,7 +141,7 @@ body {
 }
 
 .header-nav {
-  height: fit-content;
+  height: auto;
   z-index: 10;
   background-color: rgba(255, 255, 255, 0.15);
   padding: 10px 10px 10px 10px;
@@ -155,7 +155,7 @@ body {
 .main-background {
   z-index: -10;
   opacity: 0.11;
-  height: -webkit-fill-available;
+  height: auto;
   position: fixed;
   top: 50%;
   left: 50%;
@@ -286,7 +286,7 @@ body {
 
 #kekw {
   width: 10em;
-  height: fit-content;
+  height: auto;
   z-index: -9;
   opacity: 0.15;
 }
