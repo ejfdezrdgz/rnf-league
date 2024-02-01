@@ -65,12 +65,31 @@ body {
  * Custom
  */
 
+hr.dashed {
+  border-top: 3px dashed #bbb;
+}
+
+#tablaLiga,
+#tablaOut {
+  width: 630px !important;
+}
+
 #tablaLiga td {
   min-width: 24px;
   max-height: 34px;
 }
 
 #tablaLiga th {
+  text-align: center;
+}
+
+#tablaOut td {
+  width: 180px;
+  min-width: 24px;
+  max-height: 34px;
+}
+
+#tablaOut th {
   text-align: center;
 }
 
